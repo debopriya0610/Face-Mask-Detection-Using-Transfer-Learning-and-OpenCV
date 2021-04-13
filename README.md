@@ -4,3 +4,5 @@ The world is facing a huge health crisis because of the COVID-19 pandemic. The g
 The proposed transfer learning model achieved accuracy of 97.48%, during training and 100% during testing . The same work can further be improved by employing large volumes of data and can also be extended to classify the type of mask, and implement a facial recognition system, deployed at various workplaces to support person identification while wearing the mask. Other pre-trained models can also be used for clasification and a comparative study can be conducted to check which one gives the best result.
 
 Google Drive link to dataset and other files : https://drive.google.com/file/d/1ekyESeWZgLRCU2Vqedx8O3So6GGSI-Ur/view?usp=sharing
+This is a .zip file, can be extracted to access the dataset.
+Source of dataset : https://Www.Kaggle.Com/Andrewmvd/Face-Mask-Detection and https://github.com/prajnasb/observations/tree/master/experiements/data/with_mask (Prajna Bhandary's Github Repository)
